@@ -37,3 +37,13 @@
 - Jalankan aplikasi dengan flutter run.
 - Uji input tinggi/berat manual dan slider.
 - Pastikan hasil BMI sesuai kategori.
+<<<<<<< HEAD
+=======
+
+  ## Halaman Utama
+  <img width="1920" height="1080" alt="halaman_utama" src="https://github.com/user-attachments/assets/aedaf18a-49f8-4cee-b1a5-407a64645e54" />
+
+  ## Halaman Result
+  <img width="1920" height="1080" alt="halaman_result" src="https://github.com/user-attachments/assets/203a2199-5812-4367-9a4f-347f8bd27007" />
+  
+>>>>>>> 871dfab (simpan readme lokal)
